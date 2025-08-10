@@ -9,5 +9,6 @@ for (file in r_files) {
 
 cat("All custom R functions loaded successfully!\n")
 cat("Available functions:\n")
-cat("- clean_data()\n")
+cat("- clean_data() - Basic data cleaning\n")
+cat("- createKASP() - Generate KASP sequences from variant data\n")
 # Add more function names as you create them
