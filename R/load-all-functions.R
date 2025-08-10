@@ -1,12 +1,10 @@
 # Load all custom R functions from GitHub
-cat("Loading R functions from GitHub...\n")
+cat("Loading of Rileys R functions from GitHub...\n")
 
-# Define your function files here - just add new ones to this list
+# Define your function files here - just add new ones to this list when I create a new function.
 function_files <- c(
-  "R/createKASP.R",
-  "R/plotting_functions.R",    # Add this when you create it
-  "R/stats_functions.R"        # Add this when you create it
-  # Just add new files to this list!
+  "R/data-functions-example.R",
+  "R/createKASP.R",  
 )
 
 base_url <- "https://raw.githubusercontent.com/rsayle-research/r-functions/main/"
