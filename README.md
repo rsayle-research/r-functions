@@ -8,4 +8,6 @@ Load all functions at once:
 ```r
 source("https://raw.githubusercontent.com/rsayle-research/r-functions/main/R/load-all-functions.R") 
 ```
-New functions are loaded into the **r.functions/R** directory and added to the **load-all-functions.R** master file
+New functions are loaded into the **r.functions/R** directory and added to the **load-all-functions.R** master file.
+
+Thanks! 😎
