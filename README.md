@@ -1,6 +1,6 @@
 # R Functions
 
-Collection of all of custom R functions. Primarily for use in genomics and experimental analysis + some visualization tools. 
+Collection of all of my custom R functions. Primarily for use in genomics and experimental analysis + some visualization tools. 
 
 ## Quick Start
 
